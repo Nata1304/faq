@@ -26,6 +26,9 @@ git commit -m "..."
 ``` bash
 git push
 ```
+### Принять изменения из облака:
+```bash
+git pull
 
 # Ссылки на сфот:
 ### Git
