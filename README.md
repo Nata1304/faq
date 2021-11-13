@@ -49,3 +49,6 @@ git pull
 # Ресурсы:
 ### Шрифты:
 [fonts.google](https://fonts.google.com/)
+
+# Информация:
+[html5book.ru](https://html5book.ru/css3-animation/)
