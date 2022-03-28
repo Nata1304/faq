@@ -1,5 +1,5 @@
 .site {
-    --body-color: linear-gradient(90deg, rgb(231, 86, 224) 0%, rgb(56, 227, 250) 100%);
+    --body-color: linear-gradient(90deg, rgb(86, 96, 231) 0%, rgb(205, 56, 250) 100%);
 }
 
 * {
