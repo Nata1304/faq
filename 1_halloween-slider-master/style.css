@@ -1,12 +1,11 @@
 .site {
-    --body-color: linear-gradient(90deg, hsl(152deg 28% 40%) 0%, hsl(33deg 28% 40%) 100%);
+    --body-color: linear-gradient(90deg, rgb(231, 86, 224) 0%, rgb(56, 227, 250) 100%);
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
     font-family: 'Poppins', sans-serif;
 }
 
@@ -140,4 +139,52 @@ html, body {
     line-height: 109%;
     margin-bottom: 32px;
     opacity: .75;
+}
+
+.mini_boss {
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Box {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+} 
+
+.mini_box {
+    flex-direction: column;
+    align-content: space-around;
+    display: flex;
+}
+
+.image {
+    width: 300px;
+}
+
+.image .image{
+    width: 300px;
+}
+
+.Text{
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mini_text {
+    color: white;
+    font-size: 15px;
+    line-height: 109%;
+    margin-bottom: 32px;
+    opacity: .75;
+    display: flex;
+    justify-content: space-around;
 }
